@@ -2,6 +2,8 @@
 echo '[![Go Reference][goreference_badge]][goreference_link]' > temp1
 echo '[![Go Report Card][goreportcard_badge]][goreportcard_link]' >> temp1
 echo " " >> temp1
+echo "Retired in favour of github.com/deckarep/golang-set/v2" >> temp1
+echo " " >> temp1
 echo " " > temp2
 echo '[goreference_badge]: https://pkg.go.dev/badge/github.com/bruceesmith/set/v3.svg' >> temp2
 echo '[goreference_link]: https://pkg.go.dev/github.com/bruceesmith/set' >> temp2
